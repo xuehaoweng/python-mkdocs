@@ -1,0 +1,10 @@
+site_name: Learn Python
+
+site_url: https://LearnPython.com/
+nav:
+    - Home: index.md
+    - About: about.md
+    - 什么是python: python_base/whatispython.md
+    - python数据类型: python_base/database.md
+
+theme: readthedocs
